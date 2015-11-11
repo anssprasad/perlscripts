@@ -1,5 +1,8 @@
 #! /usr/intel/bin/perl
 
+####################################################################################################
+## This script is used to print any lines that have the same word/field
+
 use Getopt::Long qw(GetOptions);
 
 my $sep;
